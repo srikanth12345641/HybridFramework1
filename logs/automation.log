@@ -1,0 +1,112 @@
+2025-05-30 11:32:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml"
+2025-05-30 11:32:46 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml] otherwise TestNG may fail or not work as expected.
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.setup(java.lang.String,java.lang.String)[pri:0, instance:null] 593473636
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.quit()[pri:0, instance:null] 636397718
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.setup(java.lang.String,java.lang.String)[pri:0, instance:null] 593473636
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.quit()[pri:0, instance:null] 636397718
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ADDING NODE AccountRegistrationTest1.verify_account_registration()[pri:0, instance:testCases1.AccountRegistrationTest1@2f17e30d] 1544563512
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ADDING NODE AccountLogin.account_login()[pri:0, instance:testCases1.AccountLogin@4aa83f4f] -1074808877
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:32:46 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:32:55 DEBUG AccountRegistrationTest1:13 - Started with Homepage validation
+2025-05-30 11:32:55 DEBUG AccountRegistrationTest1:17 - Clicked on My Account
+2025-05-30 11:32:56 DEBUG AccountRegistrationTest1:20 - Clicked on Register
+2025-05-30 11:32:56 DEBUG AccountRegistrationTest1:23 - Started with registration page validation
+2025-05-30 11:32:57 DEBUG AccountRegistrationTest1:34 - Completed entering registration details
+2025-05-30 11:32:57 DEBUG AccountRegistrationTest1:40 - Account registration test completed successfully
+2025-05-30 11:33:01 DEBUG AccountLogin:13 - Started with Homepage validation
+2025-05-30 11:33:01 DEBUG AccountLogin:18 - Clicked on My Account
+2025-05-30 11:39:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml"
+2025-05-30 11:39:25 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml] otherwise TestNG may fail or not work as expected.
+2025-05-30 11:40:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml"
+2025-05-30 11:40:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml] otherwise TestNG may fail or not work as expected.
+2025-05-30 11:42:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml"
+2025-05-30 11:42:22 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml] otherwise TestNG may fail or not work as expected.
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.setup(java.lang.String,java.lang.String)[pri:0, instance:null] 593473636
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.quit()[pri:0, instance:null] 636397718
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.setup(java.lang.String,java.lang.String)[pri:0, instance:null] 593473636
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.quit()[pri:0, instance:null] 636397718
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ADDING NODE AccountRegistrationTest1.verify_account_registration()[pri:0, instance:testCases1.AccountRegistrationTest1@6ff65192] -1662084675
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ADDING NODE AccountLogin.account_login()[pri:0, instance:testCases1.AccountLogin@2b0f373b] -1604931649
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:42:22 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:42:26 DEBUG AccountRegistrationTest1:13 - Started with Homepage validation
+2025-05-30 11:42:27 DEBUG AccountRegistrationTest1:17 - Clicked on My Account
+2025-05-30 11:42:28 DEBUG AccountRegistrationTest1:20 - Clicked on Register
+2025-05-30 11:42:28 DEBUG AccountRegistrationTest1:23 - Started with registration page validation
+2025-05-30 11:42:29 DEBUG AccountRegistrationTest1:34 - Completed entering registration details
+2025-05-30 11:42:29 DEBUG AccountRegistrationTest1:40 - Account registration test completed successfully
+2025-05-30 11:42:33 DEBUG AccountLogin:13 - Started with Homepage validation
+2025-05-30 11:42:34 DEBUG AccountLogin:18 - Clicked on My Account
+2025-05-30 11:43:39 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml"
+2025-05-30 11:43:39 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\motap\eclipse-workspace\HybridFramework1\groupings.xml] otherwise TestNG may fail or not work as expected.
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.setup(java.lang.String,java.lang.String)[pri:0, instance:null] 593473636
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.quit()[pri:0, instance:null] 636397718
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.setup(java.lang.String,java.lang.String)[pri:0, instance:null] 593473636
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ADDING NODE BaseClass1.quit()[pri:0, instance:null] 636397718
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ADDING NODE AccountRegistrationTest1.verify_account_registration()[pri:0, instance:testCases1.AccountRegistrationTest1@6ff65192] -1662084675
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ADDING NODE AccountLogin.account_login()[pri:0, instance:testCases1.AccountLogin@2b0f373b] -1604931649
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ================ SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-05-30 11:43:39 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-05-30 11:43:44 DEBUG AccountRegistrationTest1:13 - Started with Homepage validation
+2025-05-30 11:43:45 DEBUG AccountRegistrationTest1:17 - Clicked on My Account
+2025-05-30 11:43:45 DEBUG AccountRegistrationTest1:20 - Clicked on Register
+2025-05-30 11:43:45 DEBUG AccountRegistrationTest1:23 - Started with registration page validation
+2025-05-30 11:43:46 DEBUG AccountRegistrationTest1:34 - Completed entering registration details
+2025-05-30 11:43:46 DEBUG AccountRegistrationTest1:40 - Account registration test completed successfully
+2025-05-30 11:43:51 DEBUG AccountLogin:13 - Started with Homepage validation
+2025-05-30 11:43:52 DEBUG AccountLogin:18 - Clicked on My Account
